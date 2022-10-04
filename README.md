@@ -2,7 +2,10 @@
  Desafio Técnico | Cross Commerce Store
 </h1
 
-<h2> Status: Finalizado! </h2>
+<p> Status: Finalizado!</p>
+<p> Link produção: <a href="cross-commerce-todo.vercel.app" /> <a target="_blank" href="cross-commerce-todo.vercel.app"> cross-commerce-todo.vercel.app<a/> </p>
+ 
+
 
 <h2> Tecnologias / Bibliotecas: </h2>
 
