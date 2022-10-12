@@ -3,7 +3,7 @@
 </h1
 
 <p> Status: Finalizado!</p>
-<p> Link produção: <a href="cross-commerce-todo.vercel.app" /> <a target="_blank" href="cross-commerce-todo.vercel.app"> cross-commerce-todo.vercel.app<a/> </p>
+<p> Link produção: <a target="_blank" href="cross-commerce-todo.vercel.app"> cross-commerce-todo.vercel.app <a/> </p>
  
 
 
